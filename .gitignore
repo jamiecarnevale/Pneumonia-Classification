@@ -8,6 +8,10 @@ __pycache__/
 
 # Ignore File types
 *.csv
+*.h5
+*.jpeg
+*.py
+*.pyc
 
 # Distribution / packaging
 .Python
