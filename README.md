@@ -38,7 +38,7 @@ Three types of Pneumonia
 
 ### Confusion Matrix
 
-![confusion](./images/.png)
+![confusion](./images/confusionmatrix.png)
 
 ### ROC_AUC = 0.99
 
