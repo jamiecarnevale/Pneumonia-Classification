@@ -61,10 +61,12 @@ Three types of Pneumonia
 Conclusion:
 - pneumonia is often misdiagnosed
 - this convolutional neural network does a great job at classifying patients with pneumonia vs no pneumonia
+  
 Best use cases
 - tool for any doctor (especially those tired and overworked)
 - tool for inexperienced doctors
-- tool for underfunded medical institutions who might be able to take x-rays but don’t have the doctors to support 
+- tool for underfunded medical institutions who might be able to take x-rays but don’t have the doctors to support
+  
 Next steps:
 - viral vs bacteria
 - model deployment
